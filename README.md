@@ -15,11 +15,8 @@ Comparison with analytical solutions to validate model accuracy.
 
 ## Key Results
 Accurate predictions for the real part of the wave function.  
-
 Slight deviations in the imaginary part, with performance improvements achieved
 through hyperparameter tuning.  
-
-
 Demonstrates the advantages of physics-informed approaches compared to traditional numerical methods.  
 
 
@@ -43,5 +40,5 @@ Future improvements include adaptive activation functions, dynamic loss weightin
 
 ## References
 PINNs by Maziar Raissi  
- 
+
 Nonlinear Schrödinger Equation (Wikipedia)
