@@ -2,15 +2,15 @@
 This project explores the application of Physics-Informed Neural Networks (PINNs) to solve the Nonlinear Schrödinger Equation (NLSE). The NLSE models complex physical phenomena, including solitons, wave packet evolution, and nonlinear optics. This repository demonstrates an innovative machine learning approach to solving partial differential equations by embedding physical laws directly into the loss function.
 
 ## Features
-### PINN Design:  
+### PINN Design:
 A feedforward neural network with 10 hidden layers and 64  neurons per layer.  
 Gaussian Activation Function: Optimized for modeling localized wave behaviors.  
 
 
-### Training Strategy: 
+### Training Strategy:
 Adam optimizer with a learning rate of 0.001 over 10,000 epochs.
 
-### Evaluation: 
+### Evaluation:
 Comparison with analytical solutions to validate model accuracy.
 
 ## Key Results
