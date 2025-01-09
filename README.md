@@ -39,6 +39,5 @@ Future improvements include adaptive activation functions, dynamic loss weightin
 
 
 ## References
-PINNs by Maziar Raissi  
-
-Nonlinear Schrödinger Equation (Wikipedia)
+- [PINNs by Maziar Raissi](https://github.com/maziarraissi/PINNs).    
+- [Nonlinear Schrödinger Equation (Wikipedia)](https://en.wikipedia.org/wiki/Nonlinear_Schr%C3%B6dinger_equation)
